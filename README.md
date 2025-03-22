@@ -1,5 +1,6 @@
-> [!IMPORTANT]
+> [!NOTE]
 >Jura Tempest Federation 💙
+>Thanks for visiting ❤️
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello,+World!+I%27m+halrraiser+%F0%9F%A9%B5)](https://github.com/halrraiser)
 
