@@ -53,4 +53,4 @@
 <div align="center">
   
 #### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/halrraiser/count.svg)
+[![Discord Presence](https://lanyard.cnrad.dev/api/557618462093082629?theme=dark)](https://discord.com/users/557618462093082629)
